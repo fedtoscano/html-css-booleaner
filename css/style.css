@@ -32,3 +32,43 @@ background-color: lightblue;
 .highlighted{
     background-color: yellow;
 }
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead th{
+    color: white;
+}
+#third-column{
+    width: 50%;
+}
+.table-head{
+    background-color: cornflowerblue;
+}
+
+.darker-row{
+    background-color: aqua;
+}
+
+p strong{
+    color: cadetblue;
+}
+
+.footer-image-1{
+    margin-bottom: 1em;
+    height: 10em;
+    width: 15em;
+    background-image: url(../img/monitor.jpg);
+}
+
+.footer-image-2{
+    height: 10em;
+    width: 15em;
+    background-image: url(../img/graph.jpg);
+}
+
+div span{
+    font-size: 1.2em;
+    color:white
+}
