@@ -1,14 +1,17 @@
 *{
     font-family: 'Times New Roman', Times, serif;
 } 
+
 header{
     margin: 0;
     padding: 0;
 }
+
 .background-container{
 height: 10rem;
 background-image: url(../img/pattern.png);
 background-color: rgb(20, 74, 202);
+background-size: 35%;
 }
 
 .logo-container{
@@ -36,6 +39,12 @@ background-color: rgb(20, 74, 202);
 #date{
     color: cadetblue;
     margin-bottom: 2em;
+}
+
+.img{
+    width: 49.83%;
+    height: 400px;
+    object-fit: cover;
 }
 
 .img-field{
